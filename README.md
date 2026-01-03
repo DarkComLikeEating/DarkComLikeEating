@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DarkComLikeEating
-- 👀 I’m interested in C++ & C# learning and Unity gamemaking
-- 🌱 I’m currently learning C++, data structure & algorithm
-- 💞️ I’m looking to collaborate on C++ learning
+- 👋 Hi, I’m Wang Zehan
+- 👀 I’m interested in AI application and mobile application dev
+- 🌱 I’m currently learning Flutter & AI
+- 💞️ I’m looking to collaborate on full stack dev
 - 📫 How to reach me: QQ 731002913; 
 
 <!---
